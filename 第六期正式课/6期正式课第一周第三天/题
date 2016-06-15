@@ -80,7 +80,7 @@ function fn() {
 øº≤Ï£∫this÷∏œÚ£ª
     var num = 10;
     var obj = {
-            num: 20,
+        num: 20,
         fn: (function (num) {
             this.num *= 2;
             num += 10;
